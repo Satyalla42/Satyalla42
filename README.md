@@ -12,6 +12,7 @@
 🔗 Previous roles in Product Support, Technical Engineering, and IT Support
 
 ⚡ What I Work On
+
 🏗 ETL Pipelines & Data Cleaning
 
 📊 Data Analysis & Visualization
