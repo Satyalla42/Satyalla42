@@ -10,4 +10,4 @@ Turning technical challenges into data-driven solutions.
 
 **Recent Projects**
 - 🎧 *Moosic*: Clustering Spotify songs with K-Means to auto-generate playlists  
-- 📉 *Eniac Discount Analysis*: Exploring the real cost of discounts using EDA
+- 🌤️ *Weather Flight Arrival API*: Collecting weather data and flight information to predict on-time arrivals
