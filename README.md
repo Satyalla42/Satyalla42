@@ -9,5 +9,5 @@ Turning technical challenges into data-driven solutions.
 - 🎓 Currently in a Data Science Bootcamp @ WBS (focus: data engineering & cloud)
 
 **Recent Projects**
--  📈 Investing Insights: Building a Streamlit dashboard powered by a data engineering pipeline using AWS (EC2, RDS), PostgreSQL, and yfinance to track financial data for stocks, ETFs,    and crypto.
+-  📈 Investing Insights: Building a Flask dashboard powered by a data engineering pipeline using AWS (EC2, RDS), PostgreSQL, and yfinance to track financial data for stocks, ETFs,    and crypto.
 - 🎧 *Moosic*: Clustering Spotify songs with K-Means to auto-generate playlists  
